@@ -7,7 +7,7 @@
 [![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-C%23,%20JavaScript-red.svg?style=flat)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
-[![Author](https://img.shields.io/badge/Author-William%20Crutchfield-blue.svg?style=flat)](https://leetcode.com/CrutchTheClutch/)
+[![Author](https://img.shields.io/badge/Author-William%20Crutchfield-blue.svg?style=flat)](https://leetcode.com/proprogrammer22/)
 
 </div>
 </br>
