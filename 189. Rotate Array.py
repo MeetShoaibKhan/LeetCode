@@ -8,9 +8,9 @@ Created on Thu Aug 19 17:28:56 2022
 # Link: https://leetcode.com/problems/rotate-array/
 
 def rotate(nums, k):
-
+	k = k % len(nums)
 	left = 0
-	right = len(nums) - 1
+	right =  len(nums) - 1
 
 	while left <= right:
 		nums[left], nums[right] = nums[right], nums[left]
@@ -38,4 +38,4 @@ def rotate(nums, k):
 
 
 
-rotate([1,2,3,4,5,6,7,8,9,10], 5)
+rotate([1,2],3)
